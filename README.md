@@ -1,7 +1,7 @@
 ### A small tool for your Stripe transfers
 by Justin Woodbridge
 
-Problem: Stripe transfer your money to a bank account.  You need to then transfer that money to a different bank account before it's accessible and spendable.  Keeping track of those states is annoying.
+Problem: Stripe transfers your money to a bank account.  You need to then transfer that money to a different bank account before it's accessible and spendable.  Keeping track of those states is annoying.
 
 So I made this little script.  It's not much, but it does the trick for me.  It might for you, too.
 
